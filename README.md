@@ -1,6 +1,6 @@
 # Power BI Sales Dashboard
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## 📌 Project Overview
 This project features an interactive Power BI dashboard designed to analyze sales performance, customer demographics, and regional trends using structured transactional data.
