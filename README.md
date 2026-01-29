@@ -17,14 +17,3 @@ This project features an interactive Power BI dashboard designed to analyze sale
 - DAX Measures
 - CSV Dataset
 
-## 📁 Project Structure
-Power-BI-Sales-Dashboard/
-│
-├── Sales_Data_Dashboard.pbix   # Power BI dashboard file
-├── Sales_Data.csv              # Source dataset used in the dashboard
-├── Dashboard.png               # Dashboard preview image
-├── Screenshots/                # Additional dashboard visuals (optional but recommended)
-│   ├── overview.png
-│   ├── region_analysis.png
-│   └── trend_analysis.png
-└── README.md                   # Project documentation
